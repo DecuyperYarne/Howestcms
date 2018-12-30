@@ -1,0 +1,78 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: December 30, 2018 3:12 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.0
+WORDPRESS:	5.0.2
+PHP INFO:	7.2.7 | SAPI: apache2handler
+SERVER:		Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.7 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 8MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+SQL CREATED: 20181230_yarnedecuyper_df8f3f3c4bc9f7293078_20181230151212_database.sql 
+SQL FILE SIZE: 345B (345) 
+
+==================================================================================
+DUPLICATOR ERROR
+Please try again! If the error persists see the Duplicator 'Help' menu.
+---------------------------------------------------------------------------------
+MESSAGE:
+	SQL file size too low.
+DETAILS:
+	File does not look complete.  Check permission on file and parent directory at [/Users/yarne/Documents/Howest/TI-S5/CMS/WP2/wp-snapshots/tmp/20181230_yarnedecuyper_df8f3f3c4bc9f7293078_20181230151212_database.sql]
+TRACE:
+	 1. class.pack.database.php : Error (110)
+	 2. class.pack.php : build (933)
+	 3. ctrl.package.php : runZipBuild (73)
+	 4. class-wp-hook.php : duplicator_package_build (286)
+	 5. class-wp-hook.php : apply_filters (310)
+	 6. plugin.php : do_action (453)
+	 7. admin-ajax.php : do_action (99)
+==================================================================================
+
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: December 30, 2018 3:12 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.0
+WORDPRESS:	5.0.2
+PHP INFO:	7.2.7 | SAPI: apache2handler
+SERVER:		Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.7 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 4MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+SQL CREATED: 20181230_yarnedecuyper_df8f3f3c4bc9f7293078_20181230151212_database.sql 
+SQL FILE SIZE: 690B (690) 
+
+==================================================================================
+DUPLICATOR ERROR
+Please try again! If the error persists see the Duplicator 'Help' menu.
+---------------------------------------------------------------------------------
+MESSAGE:
+	SQL file size too low.
+DETAILS:
+	File does not look complete.  Check permission on file and parent directory at [/Users/yarne/Documents/Howest/TI-S5/CMS/WP2/wp-snapshots/tmp/20181230_yarnedecuyper_df8f3f3c4bc9f7293078_20181230151212_database.sql]
+TRACE:
+	 1. class.pack.database.php : Error (110)
+	 2. class.pack.php : build (933)
+	 3. ctrl.package.php : runZipBuild (73)
+	 4. class-wp-hook.php : duplicator_package_build (286)
+	 5. class-wp-hook.php : apply_filters (310)
+	 6. plugin.php : do_action (453)
+	 7. admin-ajax.php : do_action (99)
+==================================================================================
+
